@@ -1,15 +1,16 @@
 package main;
 
 public class SampleProject {
-	//print  Hello world! in the console
+	//print  Hello World! in the console
 	public static String printHello() {
 		//print Hello world! in the console!
-		String c = "Hello rvabddld!";
-		return c;
+		String k = "Hello World!";
+		return k;
 	}
-	public static int add(int a,int b) {
-		int c = a+b;
-		return c;
+	public static int add(int p,int q) {
+		int k;
+		k = p+q;
+		return k;
 	}
 	public static void main(String args[]) {
 		System.out.println(printHello());
